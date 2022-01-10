@@ -18,8 +18,8 @@ function Home() {
               Hello! My name is Martha.
             </h1>
             <p className="description">
-              This is a website about my personal projects. I am currentley
-              doing a coding bootcamp.
+              This is a website about my personal projects. I am currently doing
+              a coding bootcamp.
             </p>
 
             <Link href="/contact">
